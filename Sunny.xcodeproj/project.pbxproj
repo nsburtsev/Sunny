@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		132F399627F5B76C003DEC66 /* CurrentWeatherData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 132F399527F5B76C003DEC66 /* CurrentWeatherData.swift */; };
 		136FD77B27F3190400C96E05 /* NetworkWeatherManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136FD77A27F3190400C96E05 /* NetworkWeatherManager.swift */; };
 		136FD77D27F327D900C96E05 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 136FD77C27F327D900C96E05 /* Constants.swift */; };
 		352AD2612403FA5700FE672A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 352AD2602403FA5700FE672A /* AppDelegate.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		132F399527F5B76C003DEC66 /* CurrentWeatherData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CurrentWeatherData.swift; sourceTree = "<group>"; };
 		136FD77A27F3190400C96E05 /* NetworkWeatherManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkWeatherManager.swift; sourceTree = "<group>"; };
 		136FD77C27F327D900C96E05 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		352AD25D2403FA5700FE672A /* Sunny.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Sunny.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				136FD77A27F3190400C96E05 /* NetworkWeatherManager.swift */,
+				132F399527F5B76C003DEC66 /* CurrentWeatherData.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -192,6 +195,7 @@
 				136FD77B27F3190400C96E05 /* NetworkWeatherManager.swift in Sources */,
 				352AD2612403FA5700FE672A /* AppDelegate.swift in Sources */,
 				352AD2632403FA5700FE672A /* SceneDelegate.swift in Sources */,
+				132F399627F5B76C003DEC66 /* CurrentWeatherData.swift in Sources */,
 				136FD77D27F327D900C96E05 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
