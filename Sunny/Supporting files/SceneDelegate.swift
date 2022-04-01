@@ -1,6 +1,6 @@
 //
-//  PhotosCollectionViewController.swift
-//  PhotoTapps
+//  SceneDelegate.swift
+//  Sunny
 //
 //  Created by Нюргун on 27.03.2022.
 //  Copyright © 2022 Нюргун. All rights reserved.
